@@ -17,7 +17,7 @@ Now that Bobby has proven his SQL chops, his manager has given both of you two m
 * Just under 30,000 Senior Engineers are considered to be in the RED ZONE in regarde to retirement status therefore management should push to fill positions asap.
 * Another 15,000 Engineers are in the same zone therefore PW could be in dire straights in terms of tenured experience in the Engineering sector.
 
-![name-of-you-image](https://github.com/Nimamotiee/Election_Analysis/blob/main/Resources/Election%20Results.png)
+![name-of-you-image](https://github.com/Nimamotiee/Pewlett-Hackard-Analysis/blob/main/Analysis_Projects_Folder/Pewlett_Hackard_Analysis%20Folder/Data/retirement_titles.png)
 
 
 ### #3 Summary:
@@ -28,4 +28,4 @@ Now that Bobby has proven his SQL chops, his manager has given both of you two m
 ## Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 * There are 1940 retirement ready employees with the ability and criteia to develop the next generation of PW employee.
 
-![name-of-you-image](https://github.com/Nimamotiee/Election_Analysis/blob/main/Resources/Election%20Results.png)
+![name-of-you-image](https://github.com/Nimamotiee/Pewlett-Hackard-Analysis/blob/main/Analysis_Projects_Folder/Pewlett_Hackard_Analysis%20Folder/Data/membership_elgibility.png)
